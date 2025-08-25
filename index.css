@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: aqua;
+}
+.inicio{
+    text-align: left;
+    border: solid black 3px;
+    background-color: brown;
+}

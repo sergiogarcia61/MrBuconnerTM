@@ -6,7 +6,8 @@ h1{
     color: aqua;
 }
 .inicio{
-    text-align: left;
+    text-align: center;
     border: solid black 3px;
-    background-color: brown;
+    border-radius: 10px;
+    background-color: white;
 }
